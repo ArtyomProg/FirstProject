@@ -1,2 +1,5 @@
 .project_venv/
-first_app/__pycache__/
+hello.py
+
+__pycache__/
+*.py[cod]
